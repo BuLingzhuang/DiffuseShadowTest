@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="default_shadow_color">#88757575</color>
+    <color name="default_fill_color">#ffffff</color>
+    <color name="blue_dark">#ff1976d1</color>
+    <color name="blue">#ff2195f2</color>
+    <color name="background">#ff333333</color>
+    <color name="shadow">#AA000000</color>
+    <color name="shadow_blue">#aa1976d1</color>
+    <color name="cs_green">#FF19BC9C</color>
+</resources>
